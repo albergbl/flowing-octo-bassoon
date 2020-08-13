@@ -1,0 +1,31 @@
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+      "@type": "VisualArtwork",
+      "name": "{{ page.title }}",
+      "dateCreated": "{{ page.date | "%Y" }}",
+      "image": "{{ page.img_path }}",
+      "description": "{{ page.img_alt }}",
+      "creator": [
+        {
+          "@type": "Person",
+          "name": "{{ page.creator }}",
+          "sameAs": "https://twitter.com/alison_bergblom"
+        }
+        ],
+      "width": [
+        {
+          "@type": "Distance",
+          "name": "{{ page.width }}"
+        }
+      ],
+      "height": [
+        {
+          "@type": "Distance",
+          "name": "{{ page.height }}"
+        }
+      ],
+      "artform": "{{ page.categories }}",
+      "artworkSurface": "{{ page.surface }}"
+    }
+</script>

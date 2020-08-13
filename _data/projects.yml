@@ -1,0 +1,11 @@
+- proj_key: gend
+  proj_title: "Gender and its Dictates"
+  proj_url-path: /projects/dictates/
+
+- proj_key: valuations
+  proj_title: "Self Valuations"
+  proj_url-path: /projects/valuations/
+  
+- proj_key: letters
+  proj_title: "Open Letters to the Men of Craigslist"
+  proj_url-path: /projects/open-letters/
