@@ -11,7 +11,6 @@ COMPAS is a Minnesota organization that bring professional teaching artists into
 ### Work with Me
 Please visit [my COMPAS profile](https://www.compas.org/artists/alison-bergblom-johnson) for more information and [contact COMPAS to book a residency](https://www.compas.org/book).
 
-
 ## Vision
 The moment I knew my work as a teaching artist was crucial to my artistic practice was in an Artability classroom in 2008. I was presenting a workshop on how to tell stories of mental illness to writers who experienced mental health difficulties, most of whom had the designation of experiencing serious and persistent mental illness.
 
