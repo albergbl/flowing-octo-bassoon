@@ -28,5 +28,5 @@ As a teaching artist I've worked with People Incorporated's Artability program, 
 
 ---
 
-## Work with Me
+### Work with Me
 Please visit [my COMPAS profile](https://www.compas.org/artists/alison-bergblom-johnson) for more information and [contact COMPAS to book a residency](https://www.compas.org/book).
