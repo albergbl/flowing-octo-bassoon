@@ -1,12 +1,14 @@
 ---
-layout: work
-title:  "Star Tribune Coverage 2018"
-date:   2018-05-18 22:26:35 -0500
+layout: press
+title:  "Springboard Creative Exchange Feature"
+date:   2020-08-25 22:26:35 -0500
 categories: press
 kind: press
 tags: []
-img_path: /assets/img/press/five-ways-strib.jpg
-img_alt:
-proj_key: letters
+img_path: /assets/img/press/spbdcex.png
+img_alt: "Sprinboard Creative Exchange Logo"
+proj_key: gener
 
 ---
+
+[Article on my practice overall](https://springboardexchange.org/alison-bergblom-johnsons-career-builds-on-fruitful-partnerships/) by Katie Ka Vang.

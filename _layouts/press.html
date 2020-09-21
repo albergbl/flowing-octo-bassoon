@@ -5,31 +5,21 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title p-name">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      {%- if page.creator -%}
-        by <span itemprop="creator" itemscope itemtype="http://schema.org/Person"><span class="p-creator h-card" itemprop="name">{{ page.creator }}</span></span>
-        {%- endif -%}</p>
     <p class="post-meta">  {{ page.categories }}</p>
   </header>
     
     <div class="feature-image">
         <img src="{{ page.img_path }}" alt="{{ page.img_alt }}" height="1000" />
     </div>
-  <div class="post-content e-content">
-      {{ page.img_alt }}
-  </div>
-    <p class="post-meta">  <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%Y" -%}
-        {{ page.date | date: date_format }}
+
+    <p class="post-meta">  <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">Original coverage date: 
+        {%- assign date_format = site.minima.date_to_string -%}
+        {{ page.date }}
         </time></p>
 
 {% comment %} Renders project name and url {% endcomment %}
     {% assign project = site.data.projects | where: "proj_key", page.proj_key | first %}
     <p> Part of: <a href="{{ project.proj_url-path }}">{{ project.proj_title }}</a></p>
-    
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </div>
