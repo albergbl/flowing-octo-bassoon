@@ -14,10 +14,9 @@ layout: default
     
       {{ content }}
 
-
-    <p class="post-meta">  <time class="dt-published" datetime="{{ page.date | "%a, %b %d, %Y" }}" itemprop="datePublished">Original coverage date: 
-        {%- assign date_format = site.minima.date_to_string -%}
-        {{ page.date }}
+<p class="post-meta">  <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">Original coverage date
+        {%- assign date_format = site.minima.date_format | default: "%a, %b %d, %Y" -%}
+        {{ page.date | date: date_format }}
         </time></p>
 
 {% comment %} Renders project name and url {% endcomment %}
