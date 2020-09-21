@@ -6,4 +6,3 @@ layout: home
 ---
      
 <div><a href="/thework/"><img src="assets/img/calf.jpg" /></a></div>
-<h2 class="hm-header"><a href="/the-work/">Works</a></h2>
