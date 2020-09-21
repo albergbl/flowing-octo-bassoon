@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<div class="post h-entry">
+
+  <header class="post-header">
+    <h1 class="post-title p-name">{{ page.title | escape }}</h1>
+    <p class="post-meta">  {{ page.categories }}</p>
+  </header>
+    
+    <div class="feature-image">
+        <img src="{{ page.img_path }}" alt="{{ page.img_alt }}" height="1000" />
+    </div>
+    
+      {{ content }}
+
+<p class="post-meta">  <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">Original coverage date
+        {%- assign date_format = site.minima.date_format | default: "%a, %b %d, %Y" -%}
+        {{ page.date | date: date_format }}
+        </time></p>
+
+{% comment %} Renders project name and url {% endcomment %}
+    {% assign project = site.data.projects | where: "proj_key", page.proj_key | first %}
+    <p> Part of: <a href="{{ project.proj_url-path }}">{{ project.proj_title }}</a></p>
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</div>

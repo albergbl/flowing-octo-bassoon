@@ -1,12 +1,14 @@
 ---
-layout: work
-title:  "Star Tribune Coverage 2018"
+layout: press
+title:  "Star Tribune Arts Coverage 2018"
 date:   2018-05-18 22:26:35 -0500
 categories: press
 kind: press
 tags: []
-img_path: /assets/img/press/five-ways-strib.jpg
-img_alt:
+img_path: /assets/img/press/strib.png
+img_alt: "Minneapolis Star Tribune Logo"
 proj_key: letters
 
 ---
+
+My installation was one of several projects featured in Alicia Eler's [Minneapolis Star Tribune story coverage of the Art-A-Whirl studio crawl](https://www.startribune.com/five-ways-to-cut-through-the-madness-that-is-art-a-whirl/482936671/).

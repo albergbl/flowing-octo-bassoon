@@ -1,5 +1,5 @@
 <div class="resp-gallery">
- {% assign work_posts = site.posts | where: "kind", "work" %}
+ {% assign work_posts = site.posts | where: "kind", "press" %}
 
     {% for post in work_posts limit:4 %}
     <div class="card"><a href="{{ post.url }}">

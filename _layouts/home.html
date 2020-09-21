@@ -9,7 +9,13 @@ layout: default
 
   {{ content }}
     
+<h2 class="hm-header"><a href="/the-work/">Works</a></h2>
+    
     {%- include gallery.html site=site -%}
+    
+<h2>Press</h2>    
+    {%- include gallery-press.html site=site -%}
+    
 <!--
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
