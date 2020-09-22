@@ -19,9 +19,9 @@ layout: default
         {{ page.date | date: date_format }}
         </time></p>
     
-{% comment %} Renders venue {% endcomment %}
+{% comment %} Renders venue/producer {% endcomment %}
     {% assign producer = site.data.produced_by | where: "prod_key", page.prod_key | first %}
-    <p> Performed at: <a href="{{ producer.proj_url-path }}">{{ producer.prod_title }}</a></p>
+    <p> Performed at: <a href="{{ producer.proj_url }}">{{ producer.prod_title }}</a></p>
     <p>{{ producer.prod_address }}</p>
 
 {% comment %} Renders project name and url {% endcomment %}
