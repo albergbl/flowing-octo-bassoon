@@ -35,7 +35,7 @@ Let's definitely talk. Please send an <a href="mailto:alison@alisonbergblomjohns
 Yes. Please send an <a href="mailto:alison@alisonbergblomjohnson.com">email</a> (alison@alisonbergblomjohnson.com) if you'd like to discuss a project and for my rates.
 
 ### I want to buy a piece of art. What's your process?
-Please send me an email to get the ball rolling, or click over to my [online store](https://artawhirl.org/artists/alison-bergblom-johnson/) through Mia. Individual works have information about availability.
+Please send me an email to get the ball rolling, or click over to my [online store](https://artawhirl.org/artists/alison-bergblom-johnson/) through Nemaa. Individual works have information about availability.
 
 ## A Note
 I typically respond within a day or two, but frequently more quickly. Feel free to nudge me if you don't hear back, but please be aware I often don't respond to spam messages or cold requests for products or services for sale.     
