@@ -15,5 +15,5 @@
   proj_url-path: /projects/practice/
 
 - proj_key: story
-  proj_title: "stories that stand along"
-  proj_url-path: /projects/stories/
+  proj_title: "stories that stand alone"
+  proj_url-path: projects/stories-alone/
