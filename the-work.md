@@ -11,7 +11,7 @@ permalink: /the-work/
     <div class="card"><a href="{{ post.url }}">
         <img src="{{ post.img_path }}" alt="{{ post.img_alt }}" />
               </a>
-        <div class="desc"><a href="{{ post.url }}">{{ post.title }}</a></div>
+        <div class="desc"><a href="{{ post.url }}">{{ post.title | truncate: 10 }}</a></div>
     </div>
   {% endfor %}
 </div> 
