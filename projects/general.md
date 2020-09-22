@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "relating to my artistic or literary practice in general"
+title: "my artistic or literary practice in general"
 permalink: /projects/practice/
 ---
 
