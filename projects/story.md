@@ -6,7 +6,7 @@ permalink: /projects/stories-alone/
 
 Stories that stand alone, were performed once or twice, and are not part of a larger project.
 
-## Works in this Project
+## Works
 <div class="resp-gallery">
  {% assign work_posts = site.posts | where: "proj_key", "story" %}
 
