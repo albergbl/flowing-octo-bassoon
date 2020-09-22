@@ -9,12 +9,12 @@ layout: default
   </header>
     
     <div class="feature-image">
-        <img src="{{ page.img_path }}" alt="{{ page.img_alt }}" height="1000" />
+        <img src="{{ page.img_path }}" alt="{{ page.img_alt }}" height="50%" width="50%" />
     </div>
     
       {{ content }}
 
-<p class="post-meta">  <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">Original coverage date
+<p class="post-meta">  <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">Original coverage date 
         {%- assign date_format = site.minima.date_format | default: "%a, %b %d, %Y" -%}
         {{ page.date | date: date_format }}
         </time></p>
