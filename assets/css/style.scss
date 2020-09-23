@@ -1,6 +1,7 @@
 ---
+
 ---
 
 @import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
 @import "minima/initialize";
-@import "assets/css/gallery-desc"
+// @import "assets/css/gallery-desc"
