@@ -1,14 +1,11 @@
 - prod_key: strike
   prod_title: "Strike Theater"
   prod_address: Minneapolis, MN
-  prod_url-path: https://www.strike.theater
   
 - prod_key: nag
   prod_title: "Northfield Artists Guild"
   prod_address: Northfield, MN
-  prod_url-path: https://northfieldartsguild.org
 
 - prod_key: sam
   prod_title: "Story Arts of Minnesota"
   prod_address: Minneapolis, MN
-  prod_url-path: https://www.storyartsmn.org
