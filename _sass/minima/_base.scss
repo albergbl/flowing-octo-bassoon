@@ -60,66 +60,6 @@ img {
 }
 
 /**
- * Columns
-*/
-@media only screen and (min-width: 700px) {
-    p.columns {
-column-count: 2;
-    column-gap: 1.2em;
-    text-align: justify;
-}
-}
-
-/* Gallery for home page and other places
-*/
-div.gallery {
-  border: none;
-}
-
-div.card:hover {
-  border: none;
-}
-
-div.card img {
-  width: 100%;
-  height: auto;
-}
-
-div.desc {
-  padding: 15px;
-  text-align: center;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-.card {
-  padding: 0 6px;
-  float: left;
-  width: 24.99999%;
-}
-
-@media only screen and (max-width: 700px) {
-  .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
-  }
-}
-
-@media only screen and (max-width: 500px) {
-  .resp-gallery {
-    width: 100%;
-  }
-}
-
-.resp-gallery:after {
-  content: "";
-  clear: both;
-display: table;
-}
-
-/**
  * Figures
  */
 figure > img {
