@@ -37,7 +37,8 @@ header_pages:
 permalink: none
 
 # Build settings
-theme: minima
+minima:
+  skin: classic
 plugins:
   - jekyll-feed
   - jekyll-sitemap
