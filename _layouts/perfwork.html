@@ -21,8 +21,7 @@ layout: default
     
 {% comment %} Renders venue/producer {% endcomment %}
     {% assign producer = site.data.produced_by | where: "prod_key", page.prod_key | first %}
-    <p> Performed at: {{ producer.prod_title }}</p>
-    <p>{{ producer.prod_address }}</p>
+    <p> Produced by: {{ producer.prod_title }}, {{ producer.prod_address }}</p>
 
 {% comment %} Renders project name and url {% endcomment %}
     {% assign project = site.data.projects | where: "proj_key", page.proj_key | first %}
