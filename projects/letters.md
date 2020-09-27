@@ -4,9 +4,9 @@ title: "Open Letters to the Men of Craigslist"
 permalink: /projects/open-letters/
 ---
 
-A project exploring ways to speak of and describe the manic side of bipolar disorder from an #ownvoices perspective
+A project exploring ways to speak of and describe the manic side of bipolar disorder from an #ownvoices perspective.
 
-## Works in this Project
+## Related Works and Press
 <div class="resp-gallery">
  {% assign work_posts = site.posts | where: "proj_key", "letters" %}
 
