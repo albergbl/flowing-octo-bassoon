@@ -1,7 +1,7 @@
 ---
 layout: work
 title:  "'Show Me Green'"
-date:   2019-04-01 22:26:35 -0500
+date:   2019-05-12 22:26:35 -0500
 categories: collage
 kind: work
 tags: [acrylic, "printed photograph", "found magazine paper"]
