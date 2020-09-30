@@ -4,7 +4,7 @@ title: "Self Valuations"
 permalink: /projects/valuations/
 ---
 
-A series of essays-in-progress looking at gender, value, and worth - and selfies.
+A series of pieces-in-progress looking at gender, value, and worth - and selfies.
 
 ## Works in this Project
 <div class="resp-gallery">
