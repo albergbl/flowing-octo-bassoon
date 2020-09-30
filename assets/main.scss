@@ -3,4 +3,4 @@
 ---
 
 $brand-color: #187bcd !default;
-@import "minima";
+@import "{{ site.theme }}";
