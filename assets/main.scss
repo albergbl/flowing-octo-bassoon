@@ -4,3 +4,7 @@
 
 $brand-color: #187bcd !default;
 @import "{{ site.theme }}";
+
+div.desc {
+    min-height: 80px;
+}
