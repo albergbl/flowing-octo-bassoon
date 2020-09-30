@@ -7,11 +7,11 @@ permalink: /the-work/
 <div class="resp-gallery">
  {% assign work_posts = site.posts | where: "kind", "work" %}
 
-    {% for post in work_posts limit:12 %}
+    {% for post in work_posts limit:16 %}
     <div class="card"><a href="{{ post.url }}">
         <img src="{{ post.img_path }}" alt="{{ post.img_alt }}" />
               </a>
         <div class="desc"><a href="{{ post.url }}">{{ post.title }}</a></div>
     </div>
   {% endfor %}
-</div> 
+</div>
