@@ -6,7 +6,7 @@ $brand-color: #187bcd !default;
 @import "{{ site.theme }}";
 
 .site-header {
-    border-bottom: 1px solid $brand-color;
+   border-bottom: none;
 }
 
 div.desc {
