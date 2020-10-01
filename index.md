@@ -7,6 +7,6 @@ layout: home
      
 <div class="beauty-wrap"><div class="horiz-beauty"><a href="/the-work/"><img src="assets/img/calf.jpg" /></a></div>
     <div>
-        {%- include gallery-press.html site=site -%}
+        {%- include beauty.html site=site -%}
     </div>
 </div>
