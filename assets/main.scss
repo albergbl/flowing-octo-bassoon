@@ -6,10 +6,10 @@ $brand-color: #187bcd !default;
 @import "{{ site.theme }}";
 
 div.desc {
-    min-height: 80px;
+    min-height: 90px;
 }
 
 p.post-cat {
     color: $grey-color-dark;
-    text-transform: uppercase;
+/*    text-transform: uppercase; */
 }
