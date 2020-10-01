@@ -15,8 +15,8 @@ div.horiz-beauty {
 
 @include media-query($on-laptop) {
     div.horiz-beauty {
-        padding-right: 4px;
-        border-right: 1px solid $brand-color;
+        padding-right: $spacing-unit / 3;
+        border-right: 7px solid $brand-color;
 
     }
 }
