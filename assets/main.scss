@@ -5,6 +5,10 @@
 $brand-color: #187bcd !default;
 @import "{{ site.theme }}";
 
+.site-header {
+    border-bottom: 1px solid $brand-color;
+}
+
 div.desc {
     min-height: 140px;
 }
