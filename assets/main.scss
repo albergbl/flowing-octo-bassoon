@@ -8,3 +8,8 @@ $brand-color: #187bcd !default;
 div.desc {
     min-height: 80px;
 }
+
+p.post-cat {
+    color: $grey-color-dark;
+    text-transform: uppercase;
+}
