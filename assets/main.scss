@@ -15,7 +15,17 @@ div.horiz-beauty {
     border-right: 1px dashed $brand-color;
 
 }
-
+div.resp-beauty-gallery {
+  border: none;
+    max-width: 50%;
+}
+div.beauty-card:hover {
+  border: none;
+}
+div.beauty-card img {
+  width: 100%;
+  height: auto;
+}
 div.desc {
     min-height: 140px;
 }
