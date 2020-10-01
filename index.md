@@ -5,4 +5,4 @@
 layout: home
 ---
      
-<div><a href="/thework/"><img src="assets/img/calf.jpg" /></a></div>
+<div class="horiz-beauty"><a href="/the-work/"><img src="assets/img/calf.jpg" /></a></div>
