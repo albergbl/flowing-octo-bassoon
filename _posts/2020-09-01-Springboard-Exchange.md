@@ -8,6 +8,7 @@ tags: []
 img_path: /assets/img/press/spbdcex.png
 img_alt: "Sprinboard Creative Exchange Logo"
 proj_key: gener
+feature: beauty
 
 ---
 

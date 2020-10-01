@@ -1,0 +1,10 @@
+<div class="resp-beauty-gallery">
+ {% assign beauty_posts = site.posts | where: "feature", "beauty" %}
+
+    {% for post in beauty_posts limit:4 %}
+    <div class="beauty-card"><a href="{{ post.url }}">
+        <img src="{{ post.img_path }}" alt="{{ post.img_alt }}" />
+              </a>
+    </div>
+  {% endfor %}
+</div>
