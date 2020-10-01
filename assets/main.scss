@@ -11,8 +11,14 @@ $brand-color: #187bcd !default;
 
 div.horiz-beauty {
     max-width: 50%;
-    padding-right: 2px;
-    border-right: 1px solid $brand-color;
+}
+
+@include media-query($on-laptop) {
+    div.horiz-beauty {
+        padding-right: 4px;
+        border-right: 1px solid $brand-color;
+
+    }
 }
 
 div.desc {
