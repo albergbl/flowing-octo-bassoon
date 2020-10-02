@@ -15,6 +15,9 @@ div.horiz-beauty {
     border-right: 1px dashed $brand-color;
 
 }
+div.beauty-container {
+    float: left;
+}
 div.resp-beauty-gallery {
   border: none;
     max-width: 40%;
@@ -25,6 +28,8 @@ div.beauty-card:hover {
 div.beauty-card img {
   width: 25%;
   height: auto;
+  display: block;
+  padding: 8px;
 }
 div.desc {
     min-height: 140px;

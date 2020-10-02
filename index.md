@@ -6,7 +6,7 @@ layout: home
 ---
      
 <div class="beauty-wrap"><div class="horiz-beauty"><a href="/the-work/"><img src="assets/img/calf.jpg" /></a></div>
-    <div>
+    <div class="beauty-container">
         {%- include beauty.html site=site -%}
     </div>
 </div>
