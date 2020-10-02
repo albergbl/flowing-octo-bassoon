@@ -1,7 +1,7 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-
+/* Set primary colors. */
 $brand-color: #187bcd !default;
 @import "{{ site.theme }}";
 
@@ -20,7 +20,7 @@ div.beauty-container {
 }
 div.resp-beauty-gallery {
   border: none;
-    max-width: 40%;
+  max-width: 40%;
 }
 div.beauty-card:hover {
   border: none;
@@ -28,9 +28,16 @@ div.beauty-card:hover {
 div.beauty-card img {
   width: 25%;
   height: auto;
-  display: block;
-  padding: 8px;
 }
+* {
+    box-sizing: border-box;
+}
+.beauty-card {
+    padding 0 6px;
+    float: left;
+    width: 24.99999%;
+}
+/* Adjust gallery description height to flow left to right correctly */
 div.desc {
     min-height: 140px;
 }
