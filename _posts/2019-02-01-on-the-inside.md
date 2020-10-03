@@ -12,6 +12,5 @@ creator: Alison Bergblom Johnson
 width: 10 in
 height: 14 in
 surface: paper
-feature: beauty
 
 ---
