@@ -19,22 +19,26 @@ div.beauty-container {
     float: left;
 }
 div.resp-beauty-gallery {
-  border: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: none;
     max-width: 40%;
-}
-div.beauty-card:hover {
-  border: none;
 }
 .beauty-card {
     float: left;
 }
+.beauty-card a {
+    display: inline-block;
+}
 div.beauty-card img {
-  width: 25%;
+    width: 25%;
   height: auto;
 }
-
-
-/* Adjust gallery description height to flow left to right correctly */
+div.beauty-card:hover {
+  border: none;
+}
+/* Adjust Work gallery description height to flow left to right correctly */
 div.desc {
     min-height: 140px;
 }
