@@ -32,19 +32,19 @@ div.resp-beauty-gallery {
     padding: 0;
     overflow: hidden;
     border: none;
-    max-width: 40%;
+    max-width: 100%;
 }
 .beauty-card {
     float: left;
-    max-width: 25%;
+/*    max-width: 89%;*/
 }
 .beauty-card a {
     display: inline-block;
     overflow: hidden;
 }
 div.beauty-card img {
-    width: 25%;
-  height: auto;
+    width: 50%;
+    overflow: hidden;
 }
 div.beauty-card:hover {
   border: none;
