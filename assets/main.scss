@@ -13,10 +13,12 @@ div.horiz-beauty {
     max-width: 50%;
     padding-right: 10px;
     border-right: 1px dashed $brand-color;
-
+    overflow: hidden;
 }
 div.beauty-container {
+    overflow: hidden;
     float: left;
+
 }
 div.resp-beauty-gallery {
     margin: 0;
@@ -30,6 +32,7 @@ div.resp-beauty-gallery {
 }
 .beauty-card a {
     display: inline-block;
+    overflow: hidden;
 }
 div.beauty-card img {
     width: 25%;
