@@ -7,6 +7,15 @@ layout: home
      
 <div class="beauty-wrap"><div class="horiz-beauty"><a href="/the-work/"><img src="assets/img/calf.jpg" /></a></div>
     <div class="beauty-container">
-        {%- include beauty.html site=site -%}
+<div class="resp-beauty-gallery">
+ {% assign beauty_posts = site.posts | where: "feature", "beauty" %}
+
+    {% for post in beauty_posts limit:4 %}
+    <div class="beauty-card"><a href="{{ post.url }}">
+        <img src="{{ post.img_path }}" alt="{{ post.img_alt }}" />
+              </a>
     </div>
+  {% endfor %}
+</div>
+</div>
 </div>
