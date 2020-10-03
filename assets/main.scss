@@ -36,7 +36,12 @@ div.resp-beauty-gallery {
 }
 .beauty-card {
     float: left;
-/*    max-width: 89%;*/
+    max-width: 50%;
+    overflow: hidden;
+}
+div.beauty-card {
+    max-width: 89%;
+    overflow: hidden;
 }
 .beauty-card a {
     display: inline-block;
