@@ -12,12 +12,20 @@ div.beauty-wrap {
     margin: 0;
     padding: 0;
 }
+.horiz-beauty, .beauty-container {
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    vertical-align: top;
+    font-size: 12px;
+}
 div.horiz-beauty {
     margin: 0;
     padding: 0;
-    max-width: 50%;
+    width: 50%;
     padding-right: 10px;
     border-right: 1px dashed $brand-color;
+    background: blue;
     background-color: aquamarine;
     overflow: hidden;
 }
@@ -26,9 +34,8 @@ div.horiz-beauty {
 }*/
 div.beauty-container {
     overflow: hidden;
-    max-width: 45%;
-    float: left;
-
+    width: 47%;
+/*    float: left;*/
 }
 div.resp-beauty-gallery {
     margin: 0;
