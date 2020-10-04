@@ -21,9 +21,9 @@ div.horiz-beauty {
     background-color: aquamarine;
     overflow: hidden;
 }
-div.horiz-beauty img {
+/*div.horiz-beauty img {
     height: 50%;
-}
+}*/
 div.beauty-container {
     overflow: hidden;
     max-width: 45%;
@@ -39,8 +39,8 @@ div.resp-beauty-gallery {
 }
 .beauty-card {
     float: left;
-    max-width: 50%;
     overflow: hidden;
+    max-height: 103px;
 }
 div.beauty-card {
     max-width: 89%;
