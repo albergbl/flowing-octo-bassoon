@@ -16,6 +16,9 @@ layout: home
         <img src="{{ post.img_path }}" alt="{{ post.img_alt }}" />
               </a>
     </div>
+    <div class="beauty-cat">
+    {{ post.categories }}
+    </div>
   {% endfor %}
 </div>
 </div>

@@ -28,9 +28,6 @@ div.horiz-beauty {
     overflow: hidden;
     float: left;
 }
-/*div.horiz-beauty img {
-    height: 50%;
-}*/
 div.beauty-container {
     overflow: hidden;
     width: 47%;
@@ -61,6 +58,12 @@ div.beauty-card img {
 }
 div.beauty-card:hover {
   border: none;
+}
+div.beauty-cat {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    text-transform: capitalize;
 }
 /* Adjust Work gallery description height to flow left to right correctly */
 div.desc {
