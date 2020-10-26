@@ -65,9 +65,9 @@ div.beauty-cat {
     left: 16px;
     text-transform: capitalize;
 }
-@media only screen and (max-width: $on-palm) {
+@media only screen and (max-width: $on-palm) { .home {
  background-color: #000000;
-}
+    }}
 /* Adjust Work gallery description height to flow left to right correctly */
 div.desc {
     min-height: 140px;
