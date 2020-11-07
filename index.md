@@ -5,6 +5,6 @@
 layout: home
 ---
 ## Multidisciplinary Artist
-Alison Bergblom Johnson is a multidisciplinary artist; performance, lit, collage, and installation are part of her practice. Her work engages with such topics as disability, gender, and joy.
+Hi, I'm Alison Bergblom Johnson, a multidisciplinary artist; performance, lit, collage, and installation are part of my practice. My work engages with such topics as disability, gender, and joy.
 
 <div><a href="/thework/"><img src="assets/img/calf.jpg" /></a></div>
