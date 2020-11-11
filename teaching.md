@@ -24,7 +24,7 @@ One aspect of experiencing psychiatric disability is a profound othering by soci
 Writing Right Now is space to write about what is happening to us individually and collectively during the COVID-19 pandemic. It is an opportunity to do some writing about the ordinariness of this moment, to capture details and worldviews that may be meaningful long after quarantine is over. This session is focused on the writing process above all else, with an emphasis on tips and tricks to make the writing process easier.
 
 ## Collaborations
-As a teaching artist I've worked with People Incorporated's Artability program, Minneapolis Institute for the Arts, and with other organizations and schoosl to teach art, writing, and performance skills and provide social-emotional learning opportunities for all ages from elementary-school aged young people to elders.
+As a teaching artist I've worked with People Incorporated's Artability program, Minneapolis Institute for the Arts, and with other organizations and schools to teach art, writing, and performance skills and provide social-emotional learning opportunities for all ages from elementary-school aged young people to elders.
 
 ---
 
