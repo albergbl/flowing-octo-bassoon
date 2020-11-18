@@ -5,9 +5,13 @@ permalink: /events/
 ---
 ## Upcoming
 
-### [MnArtists Presents Alison Bergblom Johnson](https://www.mnartists.org/event/mn-artists-presents-alison-bergblom-johnson), Walker Art Center, Minneapolis
+### [MnArtists Presents Alison Bergblom Johnson](https://walkerart.org/calendar/2020/virtual-mn-artists-presents-alison-bergblom-johnson), Walker Art Center, Minneapolis
 November 19, 2020 (an online event)      
 Mn Artists, the Walker’s platform for local makers, brings its online network into the museum. Join Minneapolis-based multidisciplinary artist Alison Bergblom Johnson to dream what equity in access could look like for artists with disabilities, both visible and invisible. How do artists with disabilities avoid being mere tokens or separate from the mainstream? All are welcome for an evening of performances, art making, discussion, and accessible networking for artists with disabilities. Connect with local artists of all disciplines, and engage with the questions driving the MN arts community. 
+
+### [Living Room Soundtrack: Stories from Protest Music](), Strike Theater, Minneapolis
+November 27, 2020, 7:30pm Central Time      
+
 
 ## Ongoing
 
