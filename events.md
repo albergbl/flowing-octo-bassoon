@@ -11,7 +11,27 @@ Mn Artists, the Walker’s platform for local makers, brings its online network 
 
 ### [Living Room Soundtrack: Stories from Protest Music](), Strike Theater, Minneapolis
 November 27, 2020, 7:30pm Central Time      
+Hear stories like those that might have been told in a living room late at night after the party has thinned out. Every story is inspired by a song, in this instance our inspiration is protest music.
 
+Tellers:
+* Alison Bergblom Johnson
+* Allison Broeren
+* Christy Marie Kent
+* Howard Lieberman
+* Ward Rubrecht
+
+Captioning Available
+
+Free event, but please donate to Strike Theater if you can!
+[https://www.givemn.org/organization/Strike-Theater](https://www.givemn.org/organization/Strike-Theater)
+
+Also, Living Room Soundtrack is an experiment that's going to keep coming back for awhile. If you think you'd like to tell a story in one of the future events, get in touch at alison@alisonbergblomjohnson.com. 
+
+Some future dates and themes:
+Friday December 11: Living Room Soundtrack: Stories from Silly Children’s Songs
+Friday January 8: Living Room Soundtrack: Stories from Fight Songs
+Friday February 12: Living Room Soundtrack: Stories from Torch Songs
+Friday March 12: Living Room Soundtrack: Stories from Show Tunes
 
 ## Ongoing
 
