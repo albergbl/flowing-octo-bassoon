@@ -5,9 +5,33 @@ permalink: /events/
 ---
 ## Upcoming
 
-### [MnArtists Presents Alison Bergblom Johnson](https://www.mnartists.org/event/mn-artists-presents-alison-bergblom-johnson), Walker Art Center, Minneapolis
+### [MnArtists Presents Alison Bergblom Johnson](https://walkerart.org/calendar/2020/virtual-mn-artists-presents-alison-bergblom-johnson), Walker Art Center, Minneapolis
 November 19, 2020 (an online event)      
 Mn Artists, the Walker’s platform for local makers, brings its online network into the museum. Join Minneapolis-based multidisciplinary artist Alison Bergblom Johnson to dream what equity in access could look like for artists with disabilities, both visible and invisible. How do artists with disabilities avoid being mere tokens or separate from the mainstream? All are welcome for an evening of performances, art making, discussion, and accessible networking for artists with disabilities. Connect with local artists of all disciplines, and engage with the questions driving the MN arts community. 
+
+### [Living Room Soundtrack: Stories from Protest Music](https://www.facebook.com/events/1265348827161335/), Strike Theater, Minneapolis, online
+November 27, 2020, 7:30pm Central Time    
+Hear stories like those that might have been told in a living room late at night after the party has thinned out. Every story is inspired by a song, in this instance our inspiration is protest music.
+
+Tellers:
+* Alison Bergblom Johnson
+* Allison Broeren
+* Christy Marie Kent
+* Howard Lieberman
+* Ward Rubrecht
+
+Captioning Available
+
+Free event, but please donate to Strike Theater if you can!
+[https://www.givemn.org/organization/Strike-Theater](https://www.givemn.org/organization/Strike-Theater)
+
+Also, Living Room Soundtrack is an experiment that's going to keep coming back for awhile. If you think you'd like to tell a story in one of the future events, get in touch at alison@alisonbergblomjohnson.com. 
+
+Some future dates and themes:
+Friday December 11: Living Room Soundtrack: Stories from Silly Children’s Songs
+Friday January 8: Living Room Soundtrack: Stories from Fight Songs
+Friday February 12: Living Room Soundtrack: Stories from Torch Songs
+Friday March 12: Living Room Soundtrack: Stories from Show Tunes
 
 ## Ongoing
 
