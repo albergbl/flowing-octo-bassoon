@@ -9,8 +9,8 @@ permalink: /events/
 November 19, 2020 (an online event)      
 Mn Artists, the Walker’s platform for local makers, brings its online network into the museum. Join Minneapolis-based multidisciplinary artist Alison Bergblom Johnson to dream what equity in access could look like for artists with disabilities, both visible and invisible. How do artists with disabilities avoid being mere tokens or separate from the mainstream? All are welcome for an evening of performances, art making, discussion, and accessible networking for artists with disabilities. Connect with local artists of all disciplines, and engage with the questions driving the MN arts community. 
 
-### [Living Room Soundtrack: Stories from Protest Music](https://www.facebook.com/events/1265348827161335/), Strike Theater, Minneapolis
-November 27, 2020, 7:30pm Central Time      
+### [Living Room Soundtrack: Stories from Protest Music](https://www.facebook.com/events/1265348827161335/), Strike Theater, Minneapolis, online
+November 27, 2020, 7:30pm Central Time    
 Hear stories like those that might have been told in a living room late at night after the party has thinned out. Every story is inspired by a song, in this instance our inspiration is protest music.
 
 Tellers:
