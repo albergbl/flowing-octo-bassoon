@@ -28,6 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: alison_bergblom
 header_pages:
   - about.markdown
+  - imaged-community.md
   - the-work.md
   - teaching.md
   - consults.md
